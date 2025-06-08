@@ -4,9 +4,7 @@ function HeroBanner() {
       <div className="max-w-5xl mx-auto flex flex-col md:flex-row items-center gap-10">
         {/* Avatar Placeholder */}
         <div className="w-32 h-32 md:w-40 md:h-40 rounded-full border-4 border-white shadow-lg flex items-center justify-center text-sm text-white font-mono text-center">
-          Patrick
-          <br />
-          avatar
+          Avatar
           <br />
           placeholder
         </div>
