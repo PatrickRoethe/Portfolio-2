@@ -14,16 +14,16 @@ https://portfolio2-patrick.netlify.app/
 
 ## 📂 Projects Featured
 - **JavaScript Frameworks Assignment**: E-commerce frontend with filtering and cart.
-  - 🔗 [Live site](https://ecom-project.netlify.app)  
-  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/js-frameworks-ca)
+  - 🔗 [Live site](https://ecom-project-noroff.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/ecom-project)
 
 - **Semester Project 2**: Auction platform with registration, listing, bidding.
-  - 🔗 [Live site](https://auction-house-sp2.netlify.app)  
-  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/auction-house-sp2)
+  - 🔗 [Live site](https://project-exam-auction-website.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/project-exam-auction-website)
 
 - **Exam Project 2**: Booking platform with admin and user view.
-  - 🔗 [Live site](https://holidaze-exam.netlify.app)  
-  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/holidaze-exam)
+  - 🔗 [Live site](https://holidaazee.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/holidaze-project-exam)
 
 ## 📌 Notes
 This portfolio was created with a new design and structure, separate from Portfolio 1. Project cards link to individual article pages with image, external links, and reflection content.
