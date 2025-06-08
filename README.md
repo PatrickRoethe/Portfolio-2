@@ -1,12 +1,35 @@
-# React + Vite
+# Portfolio 2 – Patrick Røthe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A portfolio built with React and Tailwind CSS to showcase three selected Noroff projects. Includes project teasers on the homepage and detailed article pages with reflections and improvements.
 
-Currently, two official plugins are available:
+## 💻 Live Site
+https://portfolio2-patrick.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📁 Technologies
+-Vite
+- React
+- Tailwind CSS
+- React Router
+- Hosted on Netlify
 
-## Expanding the ESLint configuration
+## 📂 Projects Featured
+- **JavaScript Frameworks Assignment**: E-commerce frontend with filtering and cart.
+  - 🔗 [Live site](https://ecom-project.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/js-frameworks-ca)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Semester Project 2**: Auction platform with registration, listing, bidding.
+  - 🔗 [Live site](https://auction-house-sp2.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/auction-house-sp2)
+
+- **Exam Project 2**: Booking platform with admin and user view.
+  - 🔗 [Live site](https://holidaze-exam.netlify.app)  
+  - 🔗 [GitHub repo](https://github.com/PatrickRoethe/holidaze-exam)
+
+## 📌 Notes
+This portfolio was created with a new design and structure, separate from Portfolio 1. Project cards link to individual article pages with image, external links, and reflection content.
+
+---
+
+## 🧠 Reflections
+Some improvements are still in progress, but the summer will be used to upgrade all projects and develop new ones based on what I’ve learned.
+I will use the curriculum, my previous projects, and this portfolio as a solid foundation to keep building and improving over time.
