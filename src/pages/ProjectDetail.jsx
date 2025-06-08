@@ -40,6 +40,12 @@ function ProjectDetail() {
           ← Back to Projects
         </Link>
       </div>
+      <section className="mt-8 border-t border-gray-700 pt-4">
+        <h2 className="text-2xl font-bold mb-2">
+          Reflections and Improvements
+        </h2>
+        <p className="text-white">{project.reflection}</p>
+      </section>
     </div>
   );
 }
