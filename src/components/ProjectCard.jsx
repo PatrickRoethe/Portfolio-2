@@ -13,7 +13,7 @@ function ProjectCard({ project }) {
         <div className="p-4 flex flex-col justify-between flex-grow">
           <h3 className="text-xl font-semibold text-white">{project.name}</h3>
           <p className="text-gray-300 mt-2 text-sm">{project.teaser}</p>
-          <div className="mt-4">
+          <div className="mt-4 flex justify-center sm:justify-start">
             <Button variant="secondary">Read more</Button>
           </div>
         </div>
