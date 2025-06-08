@@ -14,9 +14,7 @@ function ProjectCard({ project }) {
           <h3 className="text-xl font-semibold text-white">{project.name}</h3>
           <p className="text-gray-300 mt-2 text-sm">{project.teaser}</p>
           <div className="mt-4">
-            <Link to={`/project/${project.id}`}>
-              <Button variant="secondary">Read more</Button>
-            </Link>
+            <Button variant="secondary">Read more</Button>
           </div>
         </div>
       </div>
