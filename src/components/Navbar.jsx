@@ -1,7 +1,14 @@
+import { Link } from "react-router-dom";
+
 function Navbar() {
   return (
     <nav className="bg-primary p-4 text-textLight">
-      <h1 className="text-xl font-bold">Portfolio</h1>
+      <Link
+        to="/"
+        className="text-xl font-bold hover:text-secondary transition"
+      >
+        Portfolio
+      </Link>
     </nav>
   );
 }
