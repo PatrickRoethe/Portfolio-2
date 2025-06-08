@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-center p-4 text-white mt-auto">
+    <footer className="bg-primary text-center p-4 text-textLight mt-auto">
       <p>&copy; 2025 – Laget av meg 😎</p>
     </footer>
   );

@@ -6,7 +6,7 @@ function Layout() {
   return (
     <>
       <Navbar />
-      <main className="min-h-screen bg-gray-900 text-white p-4">
+      <main className="min-h-screen bg-background text-textLight font-mono p-4">
         <Outlet />
       </main>
       <Footer />

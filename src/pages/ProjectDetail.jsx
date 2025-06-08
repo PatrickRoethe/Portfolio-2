@@ -1,4 +1,5 @@
 import { Link, useParams } from "react-router-dom";
+import Button from "../components/Button";
 import { projects } from "../data/project";
 
 function ProjectDetail() {
@@ -16,30 +17,18 @@ function ProjectDetail() {
         className="mb-4 rounded shadow-lg max-w-full"
       />
       <p className="text-white mb-4">{project.teaser}</p>
-      <div className="flex gap-4">
-        <a
-          href={project.website}
-          target="_blank"
-          rel="noreferrer"
-          className="text-blue-400 hover:underline"
-        >
-          Visit Site
+      <div className="flex flex-wrap gap-4 mt-6">
+        <a href={project.website} target="_blank" rel="noreferrer">
+          <Button variant="primary">Visit Site</Button>
         </a>
-        <a
-          href={project.github}
-          target="_blank"
-          rel="noreferrer"
-          className="text-blue-400 hover:underline"
-        >
-          Github Repo
+        <a href={project.github} target="_blank" rel="noreferrer">
+          <Button variant="secondary">GitHub Repo</Button>
         </a>
-        <Link
-          to="/"
-          className="mt-6 inline-block text-blue-400 hover:underline"
-        >
-          ← Back to Projects
+        <Link to="/">
+          <Button variant="primary">← Back to Projects</Button>
         </Link>
       </div>
+
       <section className="mt-8 border-t border-gray-700 pt-4">
         <h2 className="text-2xl font-bold mb-2">
           Reflections and Improvements
